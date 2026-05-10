@@ -23,6 +23,7 @@ I enjoy building projects, learning new technologies, and improving my programmi
 ### Programming Languages
 - Java
 - JavaScript
+- Kotlin
 
 ### Web Development
 - HTML

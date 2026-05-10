@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Kavindu Sankalpa
 
-💻 Java & Web Developer  
+💻 Mobile & Web Developer  
 🌱 Currently learning Android Development & Modern Web Technologies  
-📍 Sri Lanka  
+📍 Colombo, Sri Lanka  
 
 ---
 
@@ -56,9 +56,6 @@ I enjoy building projects, learning new technologies, and improving my programmi
 
 ## 🚀 Projects
 
-### 📱 Calculator App
-Android calculator application built using Kotlin & Android Studio.
-
 ### 📦 Stock Management System
 Object-Oriented Programming based stock management software for retail stores.
 
@@ -74,7 +71,6 @@ Object-Oriented Programming based stock management software for retail stores.
 ## 📫 Contact Me
 
 - 📧 Email: kavindusankalpa584@gmail.com
-- 📱 Phone: +94 76 019 95 86
 
 ---
 
